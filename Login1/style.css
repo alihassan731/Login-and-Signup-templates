@@ -1,0 +1,42 @@
+@media (min-width: 768px) {
+    .main-container {
+        height: 100vh;
+    }
+
+    .card-size {
+        width: 330px;
+    }
+}
+
+.input-tag:focus {
+    border: none;
+    outline: none;
+}
+
+.card-bg-color {
+    background-color: rgb(22, 0, 43);
+}
+
+.brief-description {
+    font-size: small;
+}
+
+.main-bg-color {
+    background-color: rgb(255, 212, 187);
+}
+
+.color-btn {
+    background-color: rgba(218, 134, 218, 0.774);
+}
+
+.color-text {
+    color: rgba(218, 134, 218, 0.774);
+}
+
+.color-text:hover {
+    color: rgba(218, 134, 218, 0.774);
+}
+
+#get-started:hover {
+    background-color: rgba(218, 134, 218, 0.774);
+}
