@@ -1,0 +1,12 @@
+.main-container {
+    background-color: rgb(221, 24, 155);
+}
+
+.log-div {
+    width: 400px;
+    box-shadow: 10px 10px 5px;
+}
+
+.btn {
+    background-color: rgb(114, 0, 167);
+}
