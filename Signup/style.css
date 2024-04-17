@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+    .main-container {
+        height: 100vh;
+    }
+}
+
+.main-div {
+    max-width: 700px;
+}
+
+.rounded-top-left {
+    border-top-left-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    /* Adjust as needed */
+}
