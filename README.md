@@ -1,2 +1,4 @@
 # Login-and-Signup-templates
-This is template repository where you see multiple Login and Sign up templates that make with bootstrap 5
+This repository contains a collection of Login and Sign Up templates created with Bootstrap 5.
+<br/>
+Each template have a responsive and each repository have a demo as PNG image.
